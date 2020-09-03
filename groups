@@ -1,4 +1,3 @@
 # UUID                                                              	Group Name
 #
 e97c9a85ba783104cec4160ca05c76e2927d068a                            	saml/oran-gerrit-sim-committers
-ldap:cn=oran-gerrit-sim-committers,ou=Groups,dc=freestandards,dc=org	ldap/oran-gerrit-sim-committers
